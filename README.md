@@ -1,5 +1,5 @@
 # greenhouse-docs
 
-public greenhouse documentation hosted on github pages
+all about greenhouse
 
 [site](https://defi-carrot.github.io/greenhouse-docs/)
