@@ -22,6 +22,8 @@ In borrow/lend protocols like Kamino, there is a spread between the borrow and l
 
 For example, if USDC on Kamino is 5% to supply and 9% to borrow, there's a spread of 4%. CRT can charge 7% borrow which is better than what CRT would get supplying and better for borrowers.
 
+![Kamino USDC](./kamino-usdc.png)
+
 Weekly Adjustable Fixed Rate borrowing will be initially avalable to stakers. Rate will be set transparently and adjusted weekly by protocol maintainers.
 
 In essence, CRT lending directly to holders is better for both parties. If CRT APY is > fixed borrow rate, interesting liquidity and leverage primitives can be created.
