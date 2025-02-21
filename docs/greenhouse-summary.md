@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Greenhouse"
+nav_order: 3
+---
+
 # Greenhouse Protocol Overview
 
 Greenhouse provides extra/optional functionality to CRT holders.

@@ -1,4 +1,10 @@
-# Yield
+---
+layout: default
+title: "CRT Yield"
+nav_order: 2
+---
+
+# CRT Yield
 
 Where does the yield come from?
 

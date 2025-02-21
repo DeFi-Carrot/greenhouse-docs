@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CRT"
+nav_order: 1
+---
+
 # Carrot Protocol Overview
 
 Carrot Protocol operates CRT, a yield bearing token which is 100% collateralized by a basket of stablecoins. The protocol invests the stablecoin deposits into yield bearing protocols and distributes the yield to CRT token holders, the price of CRT reflects the accrued yield.

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <header>
+      {% include header.html %}
+    </header>
+
+    <main>
+      {{ content }}
+      
+      <hr />
+
+      <!-- Example: link to previous/next pages by nav_order -->
+      {% assign current_index = page.nav_order | plus: 0 %}
+
+      {% for item in site.pages %}
+        {% if item.nav_order == current_index | minus: 1 %}
+          <a href="{{ item.url }}">&laquo; Previous: {{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% for item in site.pages %}
+        {% if item.nav_order == current_index | plus: 1 %}
+          <a style="float: right;" href="{{ item.url }}">Next: {{ item.title }} &raquo;</a>
+        {% endif %}
+      {% endfor %}
+    </main>
+
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>
