@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Greenhouse"
-nav_order: 3
+nav_order: 4
 ---
 
 # Greenhouse Protocol Overview

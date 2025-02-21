@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CRT"
-nav_order: 1
+nav_order: 2
 ---
 
 # Carrot Protocol Overview
