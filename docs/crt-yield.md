@@ -1,9 +1,3 @@
----
-layout: default
-title: "CRT Yield"
-nav_order: 3
----
-
 # CRT Yield
 
 Where does the yield come from?

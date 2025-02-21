@@ -1,10 +1,4 @@
----
-layout: default
-title: "Greenhouse"
-nav_order: 4
----
-
-# Greenhouse Protocol Overview
+# Greenhouse Summary
 
 Greenhouse provides extra/optional functionality to CRT holders.
 

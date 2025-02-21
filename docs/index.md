@@ -1,9 +1,3 @@
----
-layout: default
-title: "Table of Contents"
-nav_order: 1
----
-
 # Greenhouse
 
 Welcome to the Greenhouse documentation.
