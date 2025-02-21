@@ -1,14 +1,14 @@
----
-layout: default
-title: "CRT Summary"
----
+# Carrot Protocol Overview
 
-# CRT Summary
+Carrot Protocol operates CRT, a yield bearing token which is 100% collateralized by a basket of stablecoins. The protocol invests the stablecoin deposits into yield bearing protocols and distributes the yield to CRT token holders, the price of CRT reflects the accrued yield.
 
-**What is CRT?**  
-Carrot (CRT) is a stablecoin-backed token representing a share of the protocol’s treasury. Every CRT is fully backed by a basket of stablecoins or stable-yield strategies, making CRT inherently low-volatility.
+## Issuance
+- Users deposit supported stablecoins (USDC, USDT, PYUSD)
+- CRT tokens minted 1:1 based on deposit amount in USD
+- Funds are deposited into yield bearing protocols
+- CRT token price increases as yield is earned, reflecting accrued value
 
-**Why CRT Is Good**  
-- **Sustainable Yield**: The treasury deploys its stablecoin assets in yield strategies (like lending), so CRT value appreciates over time.  
-- **Simplicity**: CRT is designed to avoid complex liquidation triggers. Since it’s backed by stable assets, there is minimal price volatility.  
-- **Protocol Alignment**: CRT is at the core of Greenhouse; staking and borrowing revolve around it, meaning users who hold CRT are aligned with the protocol’s success.
+## Redemptions
+- Users can redeem CRT tokens back to stablecoins
+- 0.05% redemption fee applied
+- Redemption amount includes initial deposit plus earned yield
