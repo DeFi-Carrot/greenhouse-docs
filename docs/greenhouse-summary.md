@@ -12,6 +12,8 @@ By locking up their CRT tokens, stakers are committing to the long term success 
 
 In exchange for locking up their CRT tokens, stakers are earning a portion of the protocol's yield. Currently the protocol takes a performance fee on the yield earned and a redemption fee to burn CRT in exchange for stablecoins.
 
+![Stake Apy](./stake-apy.png)
+
 ## Borrowing
 
 Borrowing allows CRT holders to borrow stablecoins against their staked CRT. These stablecoins come from the CRT treasury itself.
