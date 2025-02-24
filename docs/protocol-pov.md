@@ -1,6 +1,6 @@
-# Internal Rationale for the Revenue Share & Line of Credit Programs
+# Internal 
 
-This document provides an internal perspective on the motivations behind introducing a **Revenue Share** program for CRT stakers and offering a **Line of Credit** feature. It explains why these initiatives matter for the protocol’s growth, user engagement, and overall sustainability, and why we, as a protocol, are willing to effectively “pay” for these incentives by sharing fees or offering borrow‐friendly terms.
+Internal perspective on the motivations behind introducing a **Revenue Share** program for CRT stakers and offering a **Line of Credit** feature. It explains why these initiatives matter for the protocol’s growth, user engagement, and overall sustainability, and why we, as a protocol, are willing to effectively “pay” for these incentives by sharing fees or offering borrow‐friendly terms.
 
 ---
 
@@ -8,15 +8,15 @@ This document provides an internal perspective on the motivations behind introdu
 
 ### A) Driving Adoption & Loyalty
 - **Attracting More CRT Holders**  
-  By offering a portion of the performance fee back to CRT stakers, we create a tangible reason for users to hold and stake CRT long‐term. This helps us **bootstrap adoption** and retain users who might otherwise flip or farm in other protocols.  
+  By offering a portion of the performance fee back to CRT stakers, we create a tangible reason for users to hold and stake CRT long‐term. This helps us bootstrap adoption and retain users who might otherwise flip or farm in other protocols.  
 
 ### B) Aligning Incentives
 - **“Skin in the Game”**  
   CRT stakers effectively become co‐owners of the protocol’s success. By sharing performance fees, we align the interest of the protocol with that of its user base.  
 - **Reduced Sell Pressure**  
-  As stakers earn additional yield via fees, they have less incentive to sell CRT. This can **stabilize token price** and help the protocol manage supply/demand dynamics.
+  As stakers earn additional yield via fees, they have less incentive to sell CRT.
 - **Long‐Term Commitment**  
-  A short, mandatory lockup (e.g., 3 days) creates enough friction that stakers don’t churn in and out daily. This fosters a **more predictable capital base** and gives the protocol time to optimize yield strategies.  
+  A short, mandatory lockup (e.g., 3 days) creates enough friction that stakers don’t churn in and out daily. This fosters a more predictable capital base and gives the protocol time to optimize yield strategies.  
 
 ---
 
@@ -24,7 +24,7 @@ This document provides an internal perspective on the motivations behind introdu
 
 ### A) Capital Efficiency for Users
 - **Attractive Value Proposition**  
-  The ability to remain “fully farmed” in CRT while still tapping stablecoin liquidity is key. Instead of forcing users to unstake and lose yield, we let them borrow at a better than market rate. This encourages **more capital inflow** because users feel comfortable locking up stables, knowing they can still access liquidity.
+  The ability to remain “fully farmed” in CRT while still tapping stablecoin liquidity is key. Instead of forcing users to unstake and lose yield, we let them borrow at a better than market rate. This encourages more capital inflow because users feel comfortable locking up stables, knowing they can still access liquidity.
 
 ### B) Increase Protocol Stickiness
 - **Lock‐In Through Utility**  
@@ -39,7 +39,7 @@ This document provides an internal perspective on the motivations behind introdu
 
 ### D) Market Positioning
 - **Differentiation from Standard Lending**  
-  Many DeFi platforms let you borrow stables by locking up volatile assets (like ETH). A stable‐on‐stable line of credit with near‐zero liquidation risk is unique, **lowering friction** for new users worried about price crashes. 
+  Many DeFi platforms let you borrow stables by locking up volatile assets (like SOL). A stable‐on‐stable line of credit with near‐zero liquidation risk is unique, lowering friction for new users worried about price crashes. 
 - **Improved TVL Metrics**  
   By letting users stake CRT and borrow stables without leaving, the protocol keeps more TVL as there won't be as much selling
 - **Periodic Adjustable Fixed Rate**
